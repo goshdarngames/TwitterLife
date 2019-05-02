@@ -1,5 +1,8 @@
 # Vim swap files
-*.swp
+*pip.swp
+
+#Developer virtual env
+VIRTUAL_ENV_DEV/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
